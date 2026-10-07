@@ -27,6 +27,18 @@ I learn best by building, so my GitHub is a mix of coursework and solo projects 
 
 <br/>
 
+## 🔬 interests
+
+```text
+  ▸ Operating Systems & Systems Programming
+  ▸ Databases & Transaction Internals
+  ▸ Security & Authentication Basics
+  ▸ Data Analytics & Explainable ML
+  ▸ LLM Agents & Multi-Agent Systems
+```
+
+<br/>
+
 ## 🔭 What I'm up to
 
 | | |
@@ -110,13 +122,6 @@ Hands-on operating systems problems from my OS course, exploring how the system 
 </table>
 
 <br/>
-
-## 📈 GitHub stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Vibhav1412&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=a5b4fc&icon_color=8b5cf6&count_private=true" alt="stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vibhav1412&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=a5b4fc" alt="top langs"/>
 
 <!-- Optional: contribution snake. Needs the workflow file from the setup notes. -->
 <!--
