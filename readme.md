@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:312e81,100:6d28d9&height=220&section=header&text=Vibhav&fontSize=70&fontColor=e2e8f0&fontAlignY=38&animation=fadeIn&desc=CS%20student%20%C2%B7%20systems%20%C2%B7%20data%20%C2%B7%20security%20%C2%B7%20AI&descSize=18&descAlignY=60&descColor=a5b4fc" width="100%" alt="header"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=A5B4FC&center=true&vCenter=true&width=750&height=50&lines=Hey%2C+I'm+Vibhav+%F0%9F%91%8B;B.Tech+CSE+%40+PES+University%2C+Bengaluru;I+like+knowing+how+things+work+under+the+hood;OS+%C2%B7+Databases+%C2%B7+Security+%C2%B7+Data+%C2%B7+AI+Agents;debugs+heavy.+lifts+heavier." alt="typing intro"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=A5B4FC&center=true&vCenter=true&width=750&height=50&lines=Hey%2C+I'm+Vibhav+%F0%9F%91%8B;B.Tech+CSE+%40+PES+University%2C+Bengaluru;I+like+knowing+how+things+work+under+the+hood;OS+%C2%B7+Databases+%C2%B7+Security+%C2%B7+Data+%C2%B7+AI+Agents. " alt="typing intro"/>
 </a>
 
 <br/>
